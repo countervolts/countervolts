@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**countervolts/countervolts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Socials
+discord - ayo#1977
+spotify - wj3zar2k9y0g1jajvfvums8fl
+roblox - https://www.roblox.com/users/3055694877/profile
+stats.fm - https://stats.fm/countervolts/
 
-Here are some ideas to get you started:
+# Profile
+<p align = "center">
+    <img src = "https://discord.c99.nl/widget/theme-1/488368000055902228.png"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Stats
+<p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=countervolts&layout=compact&theme=dark"/>
+    <img src = "https://github-readme-stats.vercel.app/api?username=countervolts&show_icons=true&theme=dracula"/>
+</p>
