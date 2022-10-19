@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 Socials
+
 discord - ayo#1977
+
 spotify - wj3zar2k9y0g1jajvfvums8fl
+
 roblox - https://www.roblox.com/users/3055694877/profile
+
 stats.fm - https://stats.fm/countervolts/
 
 # Profile
