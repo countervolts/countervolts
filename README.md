@@ -14,7 +14,7 @@ twitter - https://twitter.com/jeensyuh
 
 # Profile
 <p align = "center">
-    <img src = "https://discord.c99.nl/widget/theme-5/488368000055902228.png"/>
+    <img src = "https://discord.c99.nl/widget/theme-4/488368000055902228.png"/>
 </p>
 
 
