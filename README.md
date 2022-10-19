@@ -10,6 +10,8 @@ roblox - https://www.roblox.com/users/3055694877/profile
 
 stats.fm - https://stats.fm/countervolts/
 
+twitter - https://twitter.com/jeensyuh
+
 # Profile
 <p align = "center">
     <img src = "https://discord.c99.nl/widget/theme-1/488368000055902228.png"/>
