@@ -2,7 +2,7 @@
 
 Socials
 
-discord - ayo#1977
+discord - ayo#0327
 
 spotify - wj3zar2k9y0g1jajvfvums8fl
 
