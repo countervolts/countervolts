@@ -1,6 +1,4 @@
-### Hi there 
-
-Socials
+Stuff:
 
 discord - ayo#0327 or [Here](discord.com/users/488368000055902228)
 
