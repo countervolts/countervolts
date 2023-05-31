@@ -2,11 +2,7 @@
 
 Socials
 
-discord - ayo#0327
-
-spotify - wj3zar2k9y0g1jajvfvums8fl
-
-roblox - https://www.roblox.com/users/3055694877/profile
+discord - ayo#0327 or (Here)[discord.com/users/488368000055902228]
 
 stats.fm - https://stats.fm/countervolts/
 
