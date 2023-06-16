@@ -1,6 +1,6 @@
 Stuff:
 
-discord - ayo#0327
+discord - ._ayo (488368000055902228)
 
 stats.fm - https://stats.fm/countervolts/
 
