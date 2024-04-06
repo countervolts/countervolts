@@ -14,3 +14,6 @@
 
 # trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=countervolts&title=Commits&theme=onedark)
+
+## huge commits per day explained
+[why?](https://github.com/countervolts/59problems/tree/main?tab=readme-ov-file#what-is-with-the-commits)
