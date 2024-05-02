@@ -10,7 +10,7 @@
 [Google Wifi Pause Exploiter](https://github.com/countervolts/Google-Wifi-Router-Bypasser)
 
 # websites
-[59problem](https://59problems.me)
+[59problems](https://59problems.me)
 
 [file hosting](http://hosting.59problems.me)
 
