@@ -9,7 +9,7 @@
 
 [Google Wifi Pause Exploiter](https://github.com/countervolts/Google-Wifi-Router-Bypasser)
 
-[Google Wifi Pause Exploiter Version 2](https://github.com/countervolts/Bypass-V2/)
+[GWPE Version 2](https://github.com/countervolts/Bypass-V2/)
 # websites
 [59problems](https://59problems.me)
 
