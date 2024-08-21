@@ -13,7 +13,5 @@
 # websites
 [59problems](https://59problems.me)
 
-[file hosting](http://hosting.59problems.me)
-
 # trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=countervolts&title=Commits&theme=onedark)
