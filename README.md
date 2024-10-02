@@ -15,10 +15,10 @@
 # websites
 [59problems.me](https://59problems.me)
 
-- [github](https://github.com/countervolts/59problems)
+- [source code](https://github.com/countervolts/59problems)
 
 [yt.59problems.me](https://yt.59problems.me)
 
-- [github](https://github.com/countervolts/yt)
+- [source code](https://github.com/countervolts/yt)
 # trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=countervolts&title=Commits&theme=onedark)
