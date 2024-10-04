@@ -7,7 +7,7 @@
 
 [Apple Music Stats Calculator](https://github.com/countervolts/Apple-Music-Stats-Calculator)
 
-[Youtube channel archiver](https://github.com/countervolts/yt-archiver)
+[(yt-ca) Youtube channel archiver](https://github.com/countervolts/yt-archiver)
 
 [Google Wifi Pause Exploiter](https://github.com/countervolts/Google-Wifi-Router-Bypasser)
 
