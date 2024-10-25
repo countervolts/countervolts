@@ -20,8 +20,8 @@
 
 - [source code](https://github.com/countervolts/59problems)
 
-[yt.59problems.me](https://yt.59problems.me)
+[dl.59problems.me](https://dl.59problems.me)
 
-- [source code](https://github.com/countervolts/yt)
+- [source code](https://github.com/countervolts/dl/)
 # trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=countervolts&title=Commits&theme=onedark)
