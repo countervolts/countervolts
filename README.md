@@ -2,7 +2,7 @@
 
 [Volta](https://github.com/countervolts/Volta)
 
-[Volta player](https://github.com/countervolts/Volta-player)
+[Volta player](https://github.com/countervolts/Volta-Player)
 
 [Google Wifi Pause Exploiter](https://github.com/countervolts/Google-Wifi-Router-Bypasser)
 
