@@ -7,7 +7,6 @@
 
 
 ### archived
-[Google Wifi Pause Exploiter](https://github.com/countervolts/Google-Wifi-Router-Bypasser)
 
 [GWPE Version 2](https://github.com/countervolts/Bypass-V2/)
 
