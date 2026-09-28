@@ -5,6 +5,7 @@
 
 [Volta Player](https://github.com/countervolts/Volta-Player)
 
+[d4r (dlss 4 radeon)](https://github.com/countervolts/d4r)
 
 ### archived
 
