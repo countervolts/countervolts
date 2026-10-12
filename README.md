@@ -7,6 +7,8 @@
 
 [d4r (dlss 4 radeon)](https://github.com/countervolts/d4r)
 
+[x4r (xess (xmx) 4 radeon)](https://github.com/countervolts/x4r)
+
 ### archived
 
 [GWPE Version 2](https://github.com/countervolts/Bypass-V2/)
