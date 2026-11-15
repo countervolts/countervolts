@@ -1,16 +1,15 @@
-## things ive coded
+# things ive coded
 
-### currently working on
-[Volta](https://github.com/countervolts/Volta)
+## music
 
-[Volta Player](https://github.com/countervolts/Volta-Player)
+**[Volta](https://github.com/countervolts/Volta)** · native iOS music player for your own server (Subsonic/Navidrome, Jellyfin, Emby, Plex)
 
-[d4r (dlss 4 radeon)](https://github.com/countervolts/d4r)
+**[Volta Player](https://github.com/countervolts/Volta-Player)** · the web version, self-hostable, for Navidrome and local music · [try it](https://player.voltamusic.xyz)
 
-[x4r (xess (xmx) 4 radeon)](https://github.com/countervolts/x4r)
+**[Volta Desktop](https://github.com/countervolts/Volta-Desktop)** · native desktop port for Windows, macOS and Linux, written in Rust
 
-### archived
+## upscaling
 
-[GWPE Version 2](https://github.com/countervolts/Bypass-V2/)
+**[d4r](https://github.com/countervolts/d4r)** · first official NVIDIA DLSS (SR, RR, MFG) on AMD RDNA2/3/4 · Windows and Linux
 
-[Network related thing](https://github.com/countervolts/network-related-thing) 
+**[x4r](https://github.com/countervolts/x4r)** · Intel XeSS (XMX) translated to run on AMD RDNA3/4 · Linux/Proton
