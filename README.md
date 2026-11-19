@@ -12,4 +12,7 @@
 
 **[d4r](https://github.com/countervolts/d4r)** · first official NVIDIA DLSS (SR, RR, MFG) on AMD RDNA2/3/4 · Windows and Linux
 
+**[m4r](https://github.com/countervolts/m4r)** · Apple MetalFX upscaling and frame generation on AMD RDNA2/3/4 · Linux/Proton
+
 **[x4r](https://github.com/countervolts/x4r)** · Intel XeSS (XMX) translated to run on AMD RDNA3/4 · Linux/Proton
+
