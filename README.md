@@ -16,3 +16,4 @@
 
 **[x4r](https://github.com/countervolts/x4r)** · first ever Intel XeSS (SR) (XMX) translated to run on AMD RDNA3/4 · Linux/Proton
 
+**[anf4r](https://github.com/countervolts/anf4r)** · Qualcomm Adreno Neural Fusion (SR + frame generation) running on AMD RDNA2/3/4 · Linux/Proton
