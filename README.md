@@ -12,8 +12,8 @@
 
 **[d4r](https://github.com/countervolts/d4r)** · first ever way to run official NVIDIA DLSS (SR, RR, MFG) on AMD RDNA2/3/4 · Windows and Linux
 
-**[m4r](https://github.com/countervolts/m4r)** · first ever Apple MetalFX upscaling, frame generation and denoiser on AMD RDNA2/3/4 · Linux/Proton
+**[m4r](https://github.com/countervolts/m4r)** · first ever Apple MetalFX upscaling, frame generation and denoiser on AMD RDNA2/3/4 · Windows and Linux
 
-**[x4r](https://github.com/countervolts/x4r)** · first ever Intel XeSS (SR) (XMX) translated to run on AMD RDNA3/4 · Linux/Proton
+**[x4r](https://github.com/countervolts/x4r)** · first ever Intel XeSS (SR) (XMX) translated to run on AMD RDNA3/4 · Windoes and Linux
 
-**[anf4r](https://github.com/countervolts/anf4r)** · probably first Qualcomm Adreno Neural Fusion (SR + frame generation) running on AMD RDNA2/3/4 · Linux/Proton
+**[anf4r](https://github.com/countervolts/anf4r)** · probably first Qualcomm Adreno Neural Fusion (SR + frame generation) running on AMD RDNA2/3/4 · Windows and Linux
