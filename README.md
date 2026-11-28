@@ -17,3 +17,9 @@
 **[x4r](https://github.com/countervolts/x4r)** · first ever Intel XeSS (SR) (XMX) translated to run on AMD RDNA3/4 · Windoes and Linux
 
 **[anf4r](https://github.com/countervolts/anf4r)** · probably first Qualcomm Adreno Neural Fusion (SR + frame generation) running on AMD RDNA2/3/4 · Windows and Linux
+
+## misc stuff
+
+**[d4r/minecraft](https://github.com/countervolts/d4r/tree/main/minecraft)** · DLSS MFG running in Minecraft on AMD RDNA 3/4 · Windows and Linux, fabric 26.3
+
+**[d4r/fsr-rr](https://github.com/countervolts/d4r/tree/main/fsr-rr)** · AMD FSR Ray Regeneration running on AMD RDNA 3 (RX 7000) · Linux (Proton)
